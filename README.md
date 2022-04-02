@@ -27,7 +27,16 @@ simple models and MLOps pipelines. The first few examples will therefore rely he
 Work in progress ...
 
 ## References/Further Reading
+#### MLOps Tools
+1. [Seldon](https://www.seldon.io/)
+2. [Seldon - Alibi Detect](https://github.com/SeldonIO/alibi-detect)
+3. [Monitoring and explainability of models in production, ICML 2020](https://arxiv.org/abs/2007.06299)
 
+#### MLOps Theory
+
+#### ML Engineering
+1. [Machine Learning Engineering with Python](https://www.packtpub.com/product/machine-learning-engineering-with-python/9781801079259),
+Disclaimer - my book.
 
 ## Author
 Andy McMahon, author of [Machine Learning Engineering with Python](https://www.packtpub.com/product/machine-learning-engineering-with-python/9781801079259), Packt.
