@@ -23,6 +23,8 @@ The first version of this toolkit will be very basic. This will include some ini
 to show where the concepts come from and how they can be used and focus on simulating extremely
 simple models and MLOps pipelines. The first few examples will therefore rely heavily on sklearn.
 
+## Code Design
+Work in progress ...
 
 ## References/Further Reading
 
