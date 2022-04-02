@@ -1,4 +1,0 @@
-name: mlopsgym
-channels:
-  - defaults
-prefix: /home/andrew/anaconda3/envs/mlopsgym
