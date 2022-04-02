@@ -24,5 +24,8 @@ to show where the concepts come from and how they can be used and focus on simul
 simple models and MLOps pipelines. The first few examples will therefore rely heavily on sklearn.
 
 
+## References/Further Reading
+
+
 ## Author
 Andy McMahon, author of [Machine Learning Engineering with Python](https://www.packtpub.com/product/machine-learning-engineering-with-python/9781801079259), Packt.
