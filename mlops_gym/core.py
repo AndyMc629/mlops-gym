@@ -21,9 +21,11 @@ class Simulator(ABC):
     ...
     """
 
-    def __init__(self, model):
-        self.model = model
-
+    def __init__(self, **kwargs):
+        if 'model' in kwargs.keys():
+            self.model = kwargs['model']
+        else:
+            print('You have not specified a model for this simulator object, specify one to run simulations.')
     @abstractmethod
     def model_predict(self):
         pass
